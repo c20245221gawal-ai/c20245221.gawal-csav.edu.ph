@@ -25,6 +25,7 @@ nav ul {
 }
 
 
+
 main {
     display: flex;
     flex-wrap: wrap;
@@ -40,6 +41,15 @@ main section {
     border: 2px solid black;
     padding: 20px
 }
+#PROJECTS {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 50px;
+    margin: 50px;
+    background-color: orange;
+}
+
 
 
 form {
